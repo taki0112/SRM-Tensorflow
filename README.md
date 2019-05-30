@@ -1,5 +1,5 @@
 # SRM-Tensorflow
-Simple Tensorflow implementation of "SRM : A Style-based Recalibration Module for Convolutional Neural Networks" | [paper](https://arxiv.org/abs/1903.10829)
+Simple Tensorflow implementation of ["SRM : A Style-based Recalibration Module for Convolutional Neural Networks"](https://arxiv.org/abs/1903.10829)
 
 <div align="center">
   <img src="./assets/teaser.png">
