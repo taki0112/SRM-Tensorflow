@@ -13,7 +13,7 @@ x = SRM_block(x, channels, use_bias=False, is_training=is_training, scope='srm_b
 
 ```
 
-## Comparison
+## Use in residual block
 <div align="center">
   <img src=./assets/compare.png height='500' width='500'>
 </div>
