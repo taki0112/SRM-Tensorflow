@@ -1,6 +1,6 @@
 import tensorflow as tf
 
-def SRM_block(x, channels, use_bias=True, is_training=True, scope='srm_block'):
+def SRM_block(x, channels, use_bias=False, is_training=True, scope='srm_block'):
     with tf.variable_scope(scope) :
         bs, h, w, c = x.get_shape().as_list() # c = channels
 
