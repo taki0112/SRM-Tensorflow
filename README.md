@@ -14,7 +14,10 @@ x = SRM_block(x, channels, use_bias=False, is_training=is_training, scope='srm_b
 ```
 
 ## Comparison
-<img src = './assets/compare.png' width = '500px' height = '500px'>
+<div align="center">
+  <img src=./assets/compare.png height='500' width='500'>
+</div>
+
 
 ## Results
 ### Classification
